@@ -1,0 +1,1 @@
+[Fri Feb 09 01:41:06.885282 2024] [php:error] [pid 10660] [client 162.158.90.68:58034] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /var/www/html/midilatino/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 423
